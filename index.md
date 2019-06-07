@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## XXXXXX（岗位）
+### 联系方式
+- 手机：186-xxxx-1123 (中间有分割线，便于拨打电话，如果比较忙可以写上建议沟通时间，这样让自己和招聘者都可以合理安排时间)
+- Email：xxx@gmail.com
+- 微信号：XXXX (如果遇到中意的没准加你微信呢，交易不成情谊在)
 
-You can use the [editor on GitHub](https://github.com/LeonVirgo/leonvirgo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人信息
+ - 姓名/男/1890 
+ - 本科/XX大学/网络工程 2010-2014 (明确写出年份，查阅简历的人很看重)
+ - 工作年限：3年
+ - 技术博客：http://leonvirgo.github.io   (如果有不错的东西可以放)
+ - Github：http://github.com/leonvirgo  (什么东西都没有就别放了，画蛇添足)
+ - 期望职位：xxx，xxxx(可以写多个)
+ - 期望城市：xx，xx，xx (经过自己深思熟虑过的)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 工作经历
+#### XXX公司（2017.7 ~ 今）
+##### XXX XXX（2016.02 ~ 今）
+**项目描述:**  
+该项目主要是XXXX。  
+**实现技术:**  
+xxxx
+**职责描述:**  
+1. xxx
+2. xxx
+3. xxx
+4. xxx
+5. xxx
 
-### Markdown
+##### 其他项目
+ - `xxxx项目`：该项目是XXXX，使用XXX技术，完成XXX功能。(项目分主次)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**职责描述:**  
+1. 略
 
-```markdown
-Syntax highlighted code block
+### 开源贡献(如果有写上，不一定很牛逼，但是可以提现你的那一份热情)
+- xxx
 
-# Header 1
-## Header 2
-### Header 3
+### 技术文章(如果有写上，让面试官更多的了解你，也能体现出你的技术深度和表达能力)
+- xxx
 
-- Bulleted
-- List
+### 技能清单(朴实的罗列即可，找重点写)
+- xxx
+- xxx
+- xxx
+- xxx
+- xxx
+- xxx
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeonVirgo/leonvirgo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 自我评价(朴素介绍自己)
+- 有事业心与责任心，工作积极认真，新项目上手很快。
+- 对新事物有很强的好奇心，喜欢做有挑战的事情。
+- 为人踏实，善于沟通，具有很强的团队意识和协作能力。
+### 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
